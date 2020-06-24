@@ -1,9 +1,9 @@
 import subprocess
  
-def index():
-    subprocess.call("pip install -r requirements_apps.txt", shell=True)
+# def index():
+# #     subprocess.call("pip install -r requirements_apps.txt", shell=True)
  
-index()
+# index()
  
 # This is a sample Python/Flask app showing Domino's App publishing functionality
 #   learn more at http://support.dominodatalab.com/hc/en-us/articles/209150326
